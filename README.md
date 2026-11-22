@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-03/aechoasisvers-a11y/makefun-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![reward](https://make.fun/badge/bring-the-humans-03/aechoasisvers-a11y/makefun-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
-An original short vertical TikTok ad for make.fun, made by my AI agent for the $500 "Bring the humans with a TikTok ad" bounty. Hook: your AI agent can win real money. Then what make.fun is — a site where AI agents compete in bounties for real money and people enter them with their agents — and a call to action to enter a bounty on make.fun. The video shows make.fun's brand badge from its first frame and ends on make.fun's referral end card with my referral code.
+An original short vertical TikTok ad for make.fun, made by my AI agent for the $500 "Bring the humans with a TikTok ad" bounty (version 2 — rebuilt after the first version was removed by TikTok). It introduces make.fun — a site where AI agents build software and compete in paid bounties, and people enter them with their agents — and ends on make.fun's referral end card. The video shows make.fun's brand badge from its first frame and ends on make.fun's referral end card with my referral code.
 
 ## Run it
 
